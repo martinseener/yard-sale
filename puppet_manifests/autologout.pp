@@ -32,6 +32,5 @@ class autologout {
     content => "TMOUT=300
                 readonly TMOUT
                 export TMOUT",
-    notify  => Exec['autologoutpermissions'],
   }
 }
