@@ -2,12 +2,17 @@
 yard-sale
 =========
 
-Different little Helpers, Scripts and Puppet Manifests help easing the admins all day life
+Different little Helpers, Scripts and Puppet Manifests and seedbank additions help easing the admins all day life
 
 Puppet Manifests
 ================
 
 * autologout.pp - Creates a small .sh file in /etc/profile.d for auto-logout users after 5min of idle.
+
+Seedbank-Additions
+==================
+
+* none yet
 
 License and Copyright
 =====================
