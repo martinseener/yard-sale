@@ -25,7 +25,7 @@ CHECKSNMP=$SCRIPTPATH"/check_snmp"
 # instead of the OID. The Base must end with a dot.
 # The OID below is tested with the HP ProCurve 2410G-24
 OIDBASE="1.3.6.1.2.1.2.2.1.8."
-# Comment out OIDBASE above
+# Comment out OIDBASE above if you want to use full OIDs instead of only the port numbers
 #OIDBASE=""
 
 # Tell us whats the OK State (everything else will be CRITICAL)
