@@ -4,12 +4,17 @@ yard-sale
 
 Different little Helpers, Scripts and Puppet Manifests and seedbank additions help easing the admins all day life
 
+Nagios Plugins
+==============
+
+* check_procurve_ifoperstatus.sh - Checks the Operatinal Status of one or more ports with the help of Nagios "check_snmp" Plugins which is required. For more Info, check the plugins comments how to use it.
+
 Puppet Manifests
 ================
 
 * autologout.pp - Creates a small .sh file in /etc/profile.d for auto-logout users after 5min of idle.
 
-Seedbank-Additions
+Seedbank Additions
 ==================
 
 * none yet
