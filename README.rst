@@ -7,7 +7,7 @@ Different little Helpers, Scripts and Puppet Manifests and seedbank additions he
 Nagios Plugins
 ==============
 
-* check_procurve_ifoperstatus.sh - Checks the Operatinal Status of one or more ports with the help of Nagios "check_snmp" Plugins which is required. For more Info, check the plugins comments how to use it.
+* check_procurve_ifoperstatus.sh - Checks the Operational Status of one or more ports with the help of Nagios "check_snmp" Plugins which is required. For more Info, check the plugins comments how to use it.
 
 Puppet Manifests
 ================
