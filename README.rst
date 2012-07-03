@@ -8,6 +8,7 @@ Nagios Plugins
 ==============
 
 * check_procurve_ifoperstatus.sh - Checks the Operational Status of one or more ports with the help of Nagios "check_snmp" Plugins which is required. For more Info, check the plugins comments how to use it.
+* check_postfix.sh - Checks the Postfix Processes (qmgr, pickup and master) and default smtp port to be up/listening and reports back. More Info in the check`s comments
 
 Puppet Manifests
 ================
