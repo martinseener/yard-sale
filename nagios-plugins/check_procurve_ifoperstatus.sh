@@ -2,6 +2,7 @@
 
 # check_procurve_ifoperstatus.sh v.1.0
 # (c) 2012 - Martin Seener
+# License: OSL-3.0 (http://www.opensource.org/licenses/osl-3.0.php/)
 
 # This Wrapper only works with the "check_snmp" Script from Nagios
 # and outputs the Operational State of every defined Switch Port

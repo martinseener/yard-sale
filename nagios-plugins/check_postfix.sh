@@ -2,6 +2,7 @@
 
 # check_postfix.sh v.1.0
 # (c) 2012 - Martin Seener
+# License: OSL-3.0 (http://www.opensource.org/licenses/osl-3.0.php/)
 
 # This little script checks several default postfix processes and default smtp port
 # to run/listen and reports back if both running/not running or processes/ports running
