@@ -22,6 +22,11 @@ Seedbank Additions
 
 * none yet
 
+Various (helpful) Scripts
+=======================
+
+* autonfs.sh - Original Script by JeroenHoek at http://ubuntuforums.org/showthread.php?t=1389291 but modified to check the real NFS Daemon instead of pinging the Server (guarantees that the nfs daemon itself runs!) and added some good basic mount points for a stable nfs connection to the mount command.
+
 License and Copyright
 =====================
 
